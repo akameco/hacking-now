@@ -1,5 +1,7 @@
 # hacking-now
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/hacking-now.svg)](https://greenkeeper.io/)
+
 > desktop notification while be attacked
 
 ## DEMO
